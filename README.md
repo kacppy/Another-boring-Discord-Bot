@@ -1,4 +1,4 @@
-# Discord Squealer Bot
+# Discord Bot with Squealer mode
 
 Simple bot with few commands and a squealer mode, (when user delete message, then bot send copy of that message (including images, attachments and links) to chosen channel)
 
